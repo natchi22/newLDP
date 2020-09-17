@@ -1,0 +1,7 @@
+@font-face {
+    font-family: khula;
+    src: url(../fonts/Khula-Regular.ttf);
+}
+html{
+    font-family: khula;
+}
